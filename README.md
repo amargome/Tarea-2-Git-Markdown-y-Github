@@ -8,6 +8,8 @@
 
 - 1º DAW
 
+-https://amargome.github.io/Tarea-2-Git-Markdown-y-Github/
+
 #### Uso de Git mediante la terminal git bash. Las instrucciones y sus resultados deben mostrar como bloques de código markdown:
 
 - Creación del repositorio en - nuestro ordenador (init) 
@@ -89,11 +91,17 @@ branch 'master' set up to track 'origin/master'.
 
 - Configurar el repositorio para que publique el directorio raíz en Github Pages.
 
+![GitHub Pages](capturas/GitHubPages.PNG)
+
 - Mostrar los despliegues deployments.
+
+![Deployment](capturas/Deployments.PNG)
 
 - Mostrar la página web.
 
 - Añadir en el primer apartado, Identificación, el enlace a la publicación del sitio web.
+
+![Enlace Web Añadido](capturas/EnlaceAñadido.PNG)
 
 - Uso de Git mediante la interfaz de VSCode:
 
