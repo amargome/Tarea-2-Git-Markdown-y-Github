@@ -105,9 +105,15 @@ branch 'master' set up to track 'origin/master'.
 
 - Uso de Git mediante la interfaz de VSCode:
 
+![Uso de Git en VsCode](capturas/UsoBashEnVSC.PNG)
+
 - Creación de otro commit,
 
+![Commit en VsCode](capturas/CommitEnVsCode.PNG)
+
 - Subir el repositorio a Github,
+
+![Push VsCode](capturas/SuboDesdeVsCode.PNG)
 
 - Comprobar que está subido a Github y
 
