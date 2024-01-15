@@ -117,4 +117,8 @@ branch 'master' set up to track 'origin/master'.
 
 - Comprobar que está subido a Github y
 
+![Comprobacion 2](capturas/Comprobacion.PNG)
+
 - Ver el listado de commit desde Github.
+
+![Listado Commits](capturas/ListadoDeCommits.PNG)
