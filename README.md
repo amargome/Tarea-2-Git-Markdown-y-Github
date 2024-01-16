@@ -83,11 +83,10 @@ branch 'master' set up to track 'origin/master'.
 ```
 
 - Comprobar que está subido a Github.
+
 ![Comprobacion de la subida del Repositorio](/capturas/ComprobacionDeSubida.PNG)
 
 #### Publicación en Github Pages:
-
-- Modificar el repositorio para que sea público.
 
 - Configurar el repositorio para que publique el directorio raíz en Github Pages.
 
