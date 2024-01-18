@@ -22,18 +22,6 @@ a {
     color: black;
 }
 
-#A{
-    align-self: flex-start;
-}
-
-#B{
-    align-self: center;
-}
-
-#C{
-    text-align: right;
-}
-
 h2{
     text-decoration: underline;
 }
