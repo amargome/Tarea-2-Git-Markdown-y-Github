@@ -8,7 +8,7 @@
 
 - 1º DAW
 
-![Enlace a página web]https://amargome.github.io/Tarea-2-Git-Markdown-y-Github/
+Puedes encontrar la pagina web [aquí](https://amargome.github.io/Tarea-2-Git-Markdown-y-Github/) 
 
 #### Uso de Git mediante la terminal git bash. Las instrucciones y sus resultados deben mostrar como bloques de código markdown:
 
@@ -16,7 +16,7 @@
 
 Usaremos los siguientes comandos para ello:
 
-` mkdir + NombreCarpeta `` -> Con este comando crearemos la carpeta y le pondremos nombre.
+` mkdir + NombreCarpeta ` -> Con este comando crearemos la carpeta y le pondremos nombre.
 
 ` cd + NombreCarpeta ` -> Con este comando entraremos en la carpeta seleccionada.
 
